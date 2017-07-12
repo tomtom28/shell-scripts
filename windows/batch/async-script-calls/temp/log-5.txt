@@ -1,7 +1,0 @@
-
-C:\Users\Thomas Thompson\Desktop\shell-scripts\windows\batch\async-script-calls>node ../../../index.js 
-Hello from the NodeJS script!
-Just some filler text here...
-Your random output is 0.7364837831913236
-
-C:\Users\Thomas Thompson\Desktop\shell-scripts\windows\batch\async-script-calls>EXIT
