@@ -1,0 +1,1 @@
+nodeJS.bat > ./temp/log-%1.txt
