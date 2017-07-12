@@ -6,3 +6,6 @@ Learning shell scripting (on Mac and PC)
 ### Batch files (.bat)
 https://www.tutorialspoint.com/batch_script/index.htm
 
+### PowerShell (.ps1)
+http://powershelltutorial.net/home/Introduction-to-Powershell
+
