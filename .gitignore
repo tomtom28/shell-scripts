@@ -1,5 +1,5 @@
-# Do not commit any output text files
-*./temp/*.txt
+# Do not commit any output files in temp folders
+temp/*
 
 # For MacOS
 .DS_Store
