@@ -6,6 +6,7 @@ Call it from the command line with `./main.sh [# async calls]`.
 Note that you may need to adjust your security settings using the notes below...
 
   - Remove Security Permissions for the scripts
+  
   `chmod +x main.sh && chmod +x results.sh && chmod +x log.sh && chmod +x nodeJS.sh`
 
 
